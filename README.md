@@ -87,5 +87,5 @@ The "raster-sequential" strategy produces:
 
 This reproduction was tested on:
 - Python with the dependencies listed in `main.py`
-- Input data: Multi-band GeoTIFF with 23 bands covering biodiversity metrics
+- Input data: Multi-band GeoTIFF with 22 bands covering biodiversity metrics
 - Vector data: 3 polygon features in WGS84 (EPSG:4326)
